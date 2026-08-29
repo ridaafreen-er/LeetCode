@@ -19,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ridaafreen-er/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ridaafreen-er/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ridaafreen-er/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
