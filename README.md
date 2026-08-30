@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ridaafreen-er/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridaafreen-er/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridaafreen-er/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ridaafreen-er/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ridaafreen-er/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridaafreen-er/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ridaafreen-er/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
