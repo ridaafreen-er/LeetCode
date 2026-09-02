@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ridaafreen-er/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ridaafreen-er/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ridaafreen-er/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ridaafreen-er/LeetCode/tree/master/0078-subsets) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ridaafreen-er/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ridaafreen-er/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ridaafreen-er/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
