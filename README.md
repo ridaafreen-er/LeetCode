@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/ridaafreen-er/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ridaafreen-er/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/ridaafreen-er/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridaafreen-er/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -79,6 +80,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ridaafreen-er/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0136-single-number) |
 ## String
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ridaafreen-er/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
