@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ridaafreen-er/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridaafreen-er/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
