@@ -156,6 +156,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -185,4 +186,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
