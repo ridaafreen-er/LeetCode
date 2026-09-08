@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/ridaafreen-er/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ridaafreen-er/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ridaafreen-er/LeetCode/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ridaafreen-er/LeetCode/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
