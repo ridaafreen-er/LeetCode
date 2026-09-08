@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/ridaafreen-er/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ridaafreen-er/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ridaafreen-er/LeetCode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -63,6 +64,7 @@
 | [0169-majority-element](https://github.com/ridaafreen-er/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ridaafreen-er/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -215,5 +218,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
