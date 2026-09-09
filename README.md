@@ -128,6 +128,7 @@
 | [0125-valid-palindrome](https://github.com/ridaafreen-er/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
+| [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaafreen-er/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
@@ -261,6 +263,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ridaafreen-er/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ridaafreen-er/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/ridaafreen-er/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
