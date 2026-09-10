@@ -78,6 +78,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ridaafreen-er/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -141,6 +143,7 @@
 | [0205-isomorphic-strings](https://github.com/ridaafreen-er/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaafreen-er/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
