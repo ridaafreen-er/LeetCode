@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/ridaafreen-er/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ridaafreen-er/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ridaafreen-er/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridaafreen-er/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ridaafreen-er/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
@@ -239,6 +241,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
 ## Depth-First Search
