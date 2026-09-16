@@ -41,6 +41,7 @@
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/ridaafreen-er/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
 ## Math
@@ -91,6 +92,7 @@
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0143-reorder-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/ridaafreen-er/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ridaafreen-er/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/ridaafreen-er/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -319,4 +323,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
