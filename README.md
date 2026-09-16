@@ -37,6 +37,7 @@
 | [0239-sliding-window-maximum](https://github.com/ridaafreen-er/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ridaafreen-er/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@
 | [0217-contains-duplicate](https://github.com/ridaafreen-er/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -168,6 +170,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridaafreen-er/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ridaafreen-er/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
@@ -258,6 +262,7 @@
 | [0054-spiral-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
