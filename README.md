@@ -44,6 +44,7 @@
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/ridaafreen-er/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [0054-spiral-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,4 +329,8 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
