@@ -83,6 +83,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ridaafreen-er/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ridaafreen-er/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ridaafreen-er/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ridaafreen-er/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ridaafreen-er/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ridaafreen-er/LeetCode/tree/master/0217-contains-duplicate) |
@@ -277,6 +278,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ridaafreen-er/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ridaafreen-er/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ridaafreen-er/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
@@ -303,6 +305,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ridaafreen-er/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ridaafreen-er/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ridaafreen-er/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
@@ -338,4 +341,8 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ridaafreen-er/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
