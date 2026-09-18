@@ -11,15 +11,12 @@ class Solution(object):
 
         def dfs(course):
 
-            # Currently visiting → cycle
             if state[course] == 1:
                 return False
 
-            # Already completed
             if state[course] == 2:
                 return True
 
-            # Mark as currently visiting
             state[course] = 1
 
             for nextCourse in graph[course]:
@@ -27,7 +24,6 @@ class Solution(object):
                 if not dfs(nextCourse):
                     return False
 
-            # Finished completely
             state[course] = 2
 
             return True
