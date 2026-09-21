@@ -40,6 +40,7 @@
 | [0283-move-zeroes](https://github.com/ridaafreen-er/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +169,7 @@
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaafreen-er/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -292,6 +294,7 @@
 | [0207-course-schedule](https://github.com/ridaafreen-er/LeetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ridaafreen-er/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridaafreen-er/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaafreen-er/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
@@ -362,6 +365,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 ## Hash Function
@@ -378,6 +382,7 @@
 | [0133-clone-graph](https://github.com/ridaafreen-er/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ridaafreen-er/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ridaafreen-er/LeetCode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
@@ -447,6 +452,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/ridaafreen-er/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ridaafreen-er/LeetCode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
@@ -462,10 +468,19 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
