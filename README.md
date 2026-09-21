@@ -292,6 +292,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridaafreen-er/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaafreen-er/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 ## Linked List
@@ -359,6 +360,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 ## Hash Function
 |  |
 | ------- |
@@ -374,6 +376,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ridaafreen-er/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ridaafreen-er/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
@@ -441,6 +444,7 @@
 | [0133-clone-graph](https://github.com/ridaafreen-er/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ridaafreen-er/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
