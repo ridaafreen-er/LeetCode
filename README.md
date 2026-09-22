@@ -50,6 +50,7 @@
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ridaafreen-er/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ridaafreen-er/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Math
@@ -62,6 +63,7 @@
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0169-majority-element](https://github.com/ridaafreen-er/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -241,11 +245,13 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -536,4 +542,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ridaafreen-er/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
