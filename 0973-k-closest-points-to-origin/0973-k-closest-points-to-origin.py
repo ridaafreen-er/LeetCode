@@ -1,0 +1,22 @@
+import heapq
+
+class Solution:
+    def kClosest(self, points, k):
+
+        heap = []
+
+        for x, y in points:
+
+            distance = x * x + y * y
+
+            heapq.heappush(heap, (-distance, x, y))
+
+            if len(heap) > k:
+                heapq.heappop(heap)
+
+        result = []
+
+        for _, x, y in heap:
+            result.append([x, y])
+
+        return result
