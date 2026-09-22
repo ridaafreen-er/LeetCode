@@ -76,6 +76,7 @@
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ridaafreen-er/LeetCode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
@@ -135,6 +136,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ridaafreen-er/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
@@ -231,6 +233,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ridaafreen-er/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ridaafreen-er/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
@@ -353,6 +356,7 @@
 | [0146-lru-cache](https://github.com/ridaafreen-er/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ridaafreen-er/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ridaafreen-er/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/ridaafreen-er/LeetCode/tree/master/0933-number-of-recent-calls) |
@@ -370,6 +374,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/ridaafreen-er/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Bucket Sort
