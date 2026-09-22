@@ -52,6 +52,7 @@
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/ridaafreen-er/LeetCode/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ridaafreen-er/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Math
 |  |
@@ -246,6 +247,7 @@
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/ridaafreen-er/LeetCode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
