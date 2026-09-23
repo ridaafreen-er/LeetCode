@@ -42,6 +42,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
+| [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -107,6 +108,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
+| [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
@@ -214,6 +216,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridaafreen-er/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ridaafreen-er/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 ## Trie
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -589,4 +593,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
