@@ -55,6 +55,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ridaafreen-er/LeetCode/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/ridaafreen-er/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ridaafreen-er/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Math
 |  |
@@ -260,6 +261,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ridaafreen-er/LeetCode/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/ridaafreen-er/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Quickselect
 |  |
 | ------- |
@@ -524,6 +526,7 @@
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/ridaafreen-er/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ridaafreen-er/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -540,10 +543,12 @@
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/ridaafreen-er/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/ridaafreen-er/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
