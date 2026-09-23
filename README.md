@@ -48,6 +48,7 @@
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
+| [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ridaafreen-er/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
@@ -110,6 +111,7 @@
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
+| [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
@@ -148,6 +150,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -192,6 +195,7 @@
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaafreen-er/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
@@ -333,6 +337,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ridaafreen-er/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -410,6 +415,7 @@
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ridaafreen-er/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Function
 |  |
@@ -432,6 +438,7 @@
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ridaafreen-er/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
