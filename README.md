@@ -43,6 +43,7 @@
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -119,6 +120,7 @@
 | [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridaafreen-er/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
@@ -306,6 +308,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
@@ -426,6 +429,7 @@
 | [0210-course-schedule-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ridaafreen-er/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ridaafreen-er/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ridaafreen-er/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
