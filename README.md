@@ -56,6 +56,7 @@
 | [0733-flood-fill](https://github.com/ridaafreen-er/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ridaafreen-er/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ridaafreen-er/LeetCode/tree/master/1046-last-stone-weight) |
@@ -132,6 +133,7 @@
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
