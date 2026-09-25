@@ -143,6 +143,7 @@
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ridaafreen-er/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaafreen-er/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -635,4 +637,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
