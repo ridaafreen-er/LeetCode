@@ -47,6 +47,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -139,6 +140,7 @@
 | [0213-house-robber-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -625,6 +627,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -641,4 +644,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
