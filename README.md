@@ -72,6 +72,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridaafreen-er/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ridaafreen-er/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ridaafreen-er/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
@@ -132,6 +133,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ridaafreen-er/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ridaafreen-er/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ridaafreen-er/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridaafreen-er/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -653,4 +655,8 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ridaafreen-er/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
