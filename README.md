@@ -50,6 +50,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
+| [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +142,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -322,6 +324,7 @@
 | [0078-subsets](https://github.com/ridaafreen-er/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -628,6 +631,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -648,4 +652,5 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
