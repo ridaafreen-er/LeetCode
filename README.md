@@ -150,6 +150,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/ridaafreen-er/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -226,6 +227,7 @@
 | [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ridaafreen-er/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0516-longest-palindromic-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ridaafreen-er/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
