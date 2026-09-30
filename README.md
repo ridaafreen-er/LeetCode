@@ -182,6 +182,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridaafreen-er/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ridaafreen-er/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ridaafreen-er/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ridaafreen-er/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -224,6 +225,7 @@
 | [0078-subsets](https://github.com/ridaafreen-er/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ridaafreen-er/LeetCode/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
 | ------- |
