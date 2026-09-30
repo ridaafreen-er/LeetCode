@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/ridaafreen-er/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ridaafreen-er/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ridaafreen-er/LeetCode/tree/master/0078-subsets) |
@@ -142,6 +143,7 @@
 | [0022-generate-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ridaafreen-er/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ridaafreen-er/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
@@ -360,6 +362,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ridaafreen-er/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ridaafreen-er/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
