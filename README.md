@@ -88,6 +88,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ridaafreen-er/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/ridaafreen-er/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ridaafreen-er/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
@@ -234,6 +235,7 @@
 | [0136-single-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ridaafreen-er/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ridaafreen-er/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ridaafreen-er/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ridaafreen-er/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -359,6 +361,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ridaafreen-er/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ridaafreen-er/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
