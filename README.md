@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridaafreen-er/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ridaafreen-er/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/ridaafreen-er/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ridaafreen-er/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ridaafreen-er/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -356,6 +357,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ridaafreen-er/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
