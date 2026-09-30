@@ -54,6 +54,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
@@ -162,6 +163,7 @@
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ridaafreen-er/LeetCode/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -194,6 +196,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
@@ -364,6 +367,7 @@
 | [0045-jump-game-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ridaafreen-er/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ridaafreen-er/LeetCode/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
