@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridaafreen-er/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ridaafreen-er/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ridaafreen-er/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
