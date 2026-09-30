@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/ridaafreen-er/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ridaafreen-er/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ridaafreen-er/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ridaafreen-er/LeetCode/tree/master/0049-group-anagrams) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ridaafreen-er/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ridaafreen-er/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -357,6 +359,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/ridaafreen-er/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
