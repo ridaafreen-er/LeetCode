@@ -100,6 +100,7 @@
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/ridaafreen-er/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/ridaafreen-er/LeetCode/tree/master/0763-partition-labels) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/ridaafreen-er/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
@@ -242,6 +244,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/ridaafreen-er/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaafreen-er/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -356,6 +359,7 @@
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/ridaafreen-er/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/ridaafreen-er/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0767-reorganize-string) |
 ## Matrix
 |  |
