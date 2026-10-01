@@ -95,6 +95,7 @@
 | [0227-basic-calculator-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ridaafreen-er/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ridaafreen-er/LeetCode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/ridaafreen-er/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -174,6 +175,7 @@
 | [0198-house-robber](https://github.com/ridaafreen-er/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ridaafreen-er/LeetCode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/ridaafreen-er/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/ridaafreen-er/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
@@ -540,6 +542,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ridaafreen-er/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ridaafreen-er/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/ridaafreen-er/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ridaafreen-er/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -705,6 +708,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/ridaafreen-er/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
@@ -712,6 +716,7 @@
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/ridaafreen-er/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0518-coin-change-ii) |
 ## Brute-Force Search
