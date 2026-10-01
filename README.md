@@ -62,6 +62,7 @@
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
@@ -143,6 +144,7 @@
 | [0268-missing-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -221,6 +223,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ridaafreen-er/LeetCode/tree/master/0721-accounts-merge) |
