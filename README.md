@@ -249,6 +249,7 @@
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0767-reorganize-string) |
+| [1603-design-parking-system](https://github.com/ridaafreen-er/LeetCode/tree/master/1603-design-parking-system) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -508,6 +509,7 @@
 | [0054-spiral-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ridaafreen-er/LeetCode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ridaafreen-er/LeetCode/tree/master/0735-asteroid-collision) |
+| [1603-design-parking-system](https://github.com/ridaafreen-er/LeetCode/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
@@ -519,6 +521,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ridaafreen-er/LeetCode/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/ridaafreen-er/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/ridaafreen-er/LeetCode/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
