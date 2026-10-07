@@ -795,4 +795,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ridaafreen-er/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ridaafreen-er/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
