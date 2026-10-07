@@ -91,6 +91,7 @@
 | [0029-divide-two-integers](https://github.com/ridaafreen-er/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ridaafreen-er/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/ridaafreen-er/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ridaafreen-er/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
@@ -296,6 +297,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ridaafreen-er/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ridaafreen-er/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridaafreen-er/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -749,4 +751,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0056-merge-intervals) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ridaafreen-er/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
