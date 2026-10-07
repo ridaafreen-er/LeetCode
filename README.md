@@ -95,6 +95,7 @@
 | [0069-sqrtx](https://github.com/ridaafreen-er/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ridaafreen-er/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ridaafreen-er/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -279,6 +280,7 @@
 | [0125-valid-palindrome](https://github.com/ridaafreen-er/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ridaafreen-er/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0140-word-break-ii) |
+| [0171-excel-sheet-column-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ridaafreen-er/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
