@@ -105,6 +105,7 @@
 | [0268-missing-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ridaafreen-er/LeetCode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/ridaafreen-er/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/ridaafreen-er/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
@@ -293,6 +294,7 @@
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/ridaafreen-er/LeetCode/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ridaafreen-er/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ridaafreen-er/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -504,6 +506,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ridaafreen-er/LeetCode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ridaafreen-er/LeetCode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
