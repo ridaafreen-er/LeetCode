@@ -802,4 +802,5 @@
 | [0176-second-highest-salary](https://github.com/ridaafreen-er/LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ridaafreen-er/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ridaafreen-er/LeetCode/tree/master/0182-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/ridaafreen-er/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
