@@ -85,6 +85,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ridaafreen-er/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ridaafreen-er/LeetCode/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/ridaafreen-er/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/ridaafreen-er/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ridaafreen-er/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Math
@@ -444,6 +445,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ridaafreen-er/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaafreen-er/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/ridaafreen-er/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
