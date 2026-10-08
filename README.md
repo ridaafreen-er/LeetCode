@@ -162,6 +162,7 @@
 | [0355-design-twitter](https://github.com/ridaafreen-er/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ridaafreen-er/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ridaafreen-er/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/ridaafreen-er/LeetCode/tree/master/0460-lfu-cache) |
@@ -242,6 +243,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/ridaafreen-er/LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/ridaafreen-er/LeetCode/tree/master/0621-task-scheduler) |
@@ -276,6 +278,7 @@
 | [0268-missing-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ridaafreen-er/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ridaafreen-er/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/ridaafreen-er/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -303,6 +306,7 @@
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ridaafreen-er/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ridaafreen-er/LeetCode/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/ridaafreen-er/LeetCode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/ridaafreen-er/LeetCode/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ridaafreen-er/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
