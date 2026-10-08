@@ -132,6 +132,7 @@
 | [0647-palindromic-substrings](https://github.com/ridaafreen-er/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ridaafreen-er/LeetCode/tree/master/0763-partition-labels) |
+| [1768-merge-strings-alternately](https://github.com/ridaafreen-er/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [0981-time-based-key-value-store](https://github.com/ridaafreen-er/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaafreen-er/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/ridaafreen-er/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
