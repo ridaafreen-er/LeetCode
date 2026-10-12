@@ -160,6 +160,7 @@
 | [0036-valid-sudoku](https://github.com/ridaafreen-er/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ridaafreen-er/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ridaafreen-er/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ridaafreen-er/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridaafreen-er/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ridaafreen-er/LeetCode/tree/master/0133-clone-graph) |
@@ -321,6 +322,7 @@
 | [0022-generate-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ridaafreen-er/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ridaafreen-er/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ridaafreen-er/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ridaafreen-er/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0097-interleaving-string) |
@@ -370,6 +372,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridaafreen-er/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ridaafreen-er/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ridaafreen-er/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/ridaafreen-er/LeetCode/tree/master/0480-sliding-window-median) |
