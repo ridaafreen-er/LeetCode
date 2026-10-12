@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/ridaafreen-er/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ridaafreen-er/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ridaafreen-er/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0047-permutations-ii) |
@@ -127,6 +128,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ridaafreen-er/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ridaafreen-er/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ridaafreen-er/LeetCode/tree/master/0125-valid-palindrome) |
@@ -192,6 +194,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ridaafreen-er/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ridaafreen-er/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ridaafreen-er/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ridaafreen-er/LeetCode/tree/master/0055-jump-game) |
@@ -376,6 +379,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ridaafreen-er/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ridaafreen-er/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridaafreen-er/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ridaafreen-er/LeetCode/tree/master/0143-reorder-list) |
@@ -540,6 +544,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ridaafreen-er/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ridaafreen-er/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ridaafreen-er/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ridaafreen-er/LeetCode/tree/master/0739-daily-temperatures) |
