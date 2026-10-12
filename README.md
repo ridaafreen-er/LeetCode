@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ridaafreen-er/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ridaafreen-er/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ridaafreen-er/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ridaafreen-er/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -156,6 +157,7 @@
 | [0013-roman-to-integer](https://github.com/ridaafreen-er/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ridaafreen-er/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ridaafreen-er/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ridaafreen-er/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridaafreen-er/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -451,6 +453,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ridaafreen-er/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/ridaafreen-er/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ridaafreen-er/LeetCode/tree/master/0046-permutations) |
@@ -484,6 +487,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ridaafreen-er/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ridaafreen-er/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -854,4 +858,12 @@
 | [0182-duplicate-emails](https://github.com/ridaafreen-er/LeetCode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/ridaafreen-er/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/ridaafreen-er/LeetCode/tree/master/0197-rising-temperature) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ridaafreen-er/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ridaafreen-er/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
