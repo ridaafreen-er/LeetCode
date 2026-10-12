@@ -22,6 +22,7 @@
 | [0055-jump-game](https://github.com/ridaafreen-er/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ridaafreen-er/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ridaafreen-er/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ridaafreen-er/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -469,6 +470,7 @@
 | [0036-valid-sudoku](https://github.com/ridaafreen-er/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ridaafreen-er/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
@@ -542,6 +544,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/ridaafreen-er/LeetCode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ridaafreen-er/LeetCode/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/ridaafreen-er/LeetCode/tree/master/1603-design-parking-system) |
