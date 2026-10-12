@@ -49,6 +49,7 @@
 | [0169-majority-element](https://github.com/ridaafreen-er/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ridaafreen-er/LeetCode/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ridaafreen-er/LeetCode/tree/master/0217-contains-duplicate) |
@@ -317,6 +318,7 @@
 | [0140-word-break-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0140-word-break-ii) |
 | [0171-excel-sheet-column-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ridaafreen-er/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ridaafreen-er/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ridaafreen-er/LeetCode/tree/master/0344-reverse-string) |
@@ -364,6 +366,7 @@
 | [0014-longest-common-prefix](https://github.com/ridaafreen-er/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ridaafreen-er/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/ridaafreen-er/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Manacher
 |  |
@@ -448,6 +451,7 @@
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
@@ -477,6 +481,7 @@
 | [0064-minimum-path-sum](https://github.com/ridaafreen-er/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ridaafreen-er/LeetCode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/ridaafreen-er/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/ridaafreen-er/LeetCode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/ridaafreen-er/LeetCode/tree/master/0542-01-matrix) |
