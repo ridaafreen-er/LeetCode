@@ -65,6 +65,7 @@
 | [0268-missing-number](https://github.com/ridaafreen-er/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ridaafreen-er/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ridaafreen-er/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/ridaafreen-er/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/ridaafreen-er/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ridaafreen-er/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -250,6 +251,7 @@
 | [0169-majority-element](https://github.com/ridaafreen-er/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ridaafreen-er/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/ridaafreen-er/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/ridaafreen-er/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ridaafreen-er/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
@@ -591,6 +593,7 @@
 | [0155-min-stack](https://github.com/ridaafreen-er/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ridaafreen-er/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ridaafreen-er/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/ridaafreen-er/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/ridaafreen-er/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ridaafreen-er/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/ridaafreen-er/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -880,4 +883,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ridaafreen-er/LeetCode/tree/master/0037-sudoku-solver) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ridaafreen-er/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ridaafreen-er/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ridaafreen-er/LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
