@@ -877,6 +877,7 @@
 | [0182-duplicate-emails](https://github.com/ridaafreen-er/LeetCode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/ridaafreen-er/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/ridaafreen-er/LeetCode/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/ridaafreen-er/LeetCode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ridaafreen-er/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Algorithm X
 |  |
